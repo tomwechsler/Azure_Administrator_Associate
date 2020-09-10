@@ -31,4 +31,4 @@ Get-AzRoleDefinition | ? {$_.IsCustom -eq $true} | FT Name, IsCustom
 #Delete a custom role
 Get-AzRoleDefinition "Reader Support Tickets"
 
-Remove-AzRoleDefinition -Id "c499320b-0d83-46e4-8a3e-c790286f1f09"
+Remove-AzRoleDefinition -Id "c499320b-0d83-46e4-8a3e-c790286f1f09" #Replace the ID with the Result from Line 32
