@@ -8,6 +8,7 @@ Connect-AzAccount
 
 #Select the correct subscription
 Get-AzSubscription -SubscriptionName "MSDN Platforms" | Select-AzSubscription
+Get-AzContext
 
 #Tags
 (Get-AzResourceGroup -Name tw-rg01).Tags
