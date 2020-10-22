@@ -4,7 +4,7 @@ az account show
 
 az account list --all --output table
 
-az account set --subscription "Visual Studio Enterprise-Abonnement"
+az account set --subscription "your subscription name"
 
 #Create a resource group
 az group create --name myResourceGroup --location westeurope
@@ -23,7 +23,7 @@ Install-Module -Name Az -Force -AllowClobber -Verbose
 Connect-AzAccount
 
 #Select the correct subscription
-Get-AzSubscription -SubscriptionName "MSDN Platforms" | Select-AzSubscription
+Get-AzSubscription -SubscriptionName "your subscription name" | Select-AzSubscription
 Get-AzContext
 
 #Create a resource group
