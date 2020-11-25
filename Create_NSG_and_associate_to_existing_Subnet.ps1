@@ -36,7 +36,7 @@ $nsg = New-AzNetworkSecurityGroup -ResourceGroupName tw-azuredemo-rg -Location $
 (Get-AzVirtualNetwork).Name
 
 #Let's create a variable
-$VNet = Get-AzVirtualNetwork -Name ‘tw-vnet-workload’
+$VNet = Get-AzVirtualNetwork -Name 'tw-vnet-workload'
 
 #We need the name of the subnet
 Get-AzVirtualNetworkSubnetConfig -VirtualNetwork $VNet | Select-Object Name,AddressPrefix
@@ -51,4 +51,4 @@ Set-AzVirtualNetworkSubnetConfig -Name $VNetSubnet.Name -VirtualNetwork $VNet -A
 $VNet | Set-AzVirtualNetwork
 
 #Let's check the configuration
-(Get-AzVirtualNetwork -Name ‘tw-vnet-workload’).Subnets
+(Get-AzVirtualNetwork -Name 'tw-vnet-workload').Subnets
