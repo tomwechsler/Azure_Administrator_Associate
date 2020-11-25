@@ -25,7 +25,7 @@ $rule1 = New-AzNetworkSecurityRuleConfig -Name rdp-rule -Description "Allow RDP"
     -Access Allow -Protocol Tcp -Direction Inbound -Priority 300 -SourceAddressPrefix `
     Internet -SourcePortRange * -DestinationAddressPrefix * -DestinationPortRange 3389
 
-$rule2 = New-AzNetworkSecurityRuleConfig -Name web-rule -Description "Allow HTTP" `
+$rule2 = New-AzNetworkSecurityRuleConfig -Name web-rule -Description "Allow HTTP und HTTPS" `
     -Access Allow -Protocol Tcp -Direction Inbound -Priority 400 -SourceAddressPrefix `
     Internet -SourcePortRange * -DestinationAddressPrefix * -DestinationPortRange 80, 443
 
