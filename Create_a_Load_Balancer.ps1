@@ -207,4 +207,4 @@ Get-AzPublicIPAddress `
 
 
 #Clean Up
-Remove-AzResourceGroup -Name myResourceGroupSLB
+Remove-AzResourceGroup -Name myResourceGroupSLB -Force
