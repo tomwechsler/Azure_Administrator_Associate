@@ -11,7 +11,7 @@ Get-AzSubscription -SubscriptionName "MSDN Platforms" | Select-AzSubscription
 
 #create a resource group
 $rgName='MyResourceGroupSLB'
-$location='eastus'
+$location='westeurope'
 New-AzResourceGroup -Name $rgName -Location $location
 
 #public IP address for the load balancer => a zonal Public IP address in zone 1
