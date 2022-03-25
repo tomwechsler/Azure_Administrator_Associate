@@ -21,3 +21,6 @@ https://docs.microsoft.com/en-us/learn/paths/az-104-monitor-backup-resources/
 Thomas Maurer's Study Guide:  
 -------------------
 https://www.thomasmaurer.ch/2020/03/az-104-study-guide-azure-administrator/
+
+More helpful information directly from Microsoft, divided into the functional groups (Skills measured -coming soon)!
+-------------------
