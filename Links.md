@@ -24,3 +24,13 @@ https://www.thomasmaurer.ch/2020/03/az-104-study-guide-azure-administrator/
 
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured -coming soon)!
 -------------------
+
+**Manage Azure identities and governance:**
+
+**Implement and manage storage:**
+
+**Deploy and manage Azure compute resources:**
+
+**Configure and manage virtual networking:**
+
+**Monitor and back up Azure resources:**
