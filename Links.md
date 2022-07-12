@@ -65,6 +65,38 @@ https://docs.microsoft.com/en-us/azure/governance/management-groups/create-manag
 
 **Implement and manage storage:**
 
+https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security?tabs=azure-portal
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-sas-overview
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/authorize-access-azure-active-directory
+
+https://docs.microsoft.com/en-us/azure/import-export/storage-import-export-data-from-blobs?tabs=azure-portal-preview
+
+https://docs.microsoft.com/en-us/azure/import-export/storage-import-export-data-to-blobs?tabs=azure-portal-preview
+
+https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
+
+https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share?tabs=azure-portal
+
+https://docs.microsoft.com/en-us/azure/storage/file-sync/file-sync-extend-servers
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-overview
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/object-replication-configure?tabs=portal
+
 **Deploy and manage Azure compute resources:**
 
 **Configure and manage virtual networking:**
