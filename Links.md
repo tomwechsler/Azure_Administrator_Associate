@@ -41,6 +41,28 @@ https://docs.microsoft.com/en-us/azure/active-directory/devices/azureadjoin-plan
 
 https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-deployment
 
+https://docs.microsoft.com/en-us/azure/role-based-access-control/tutorial-custom-role-powershell
+
+https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal?tabs=current
+
+https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-list-portal
+
+https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/licensing-directory-independence
+
+https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources?tabs=json
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal
+
+https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/create-subscription
+
+https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/quick-acm-cost-analysis
+
+https://docs.microsoft.com/en-us/azure/governance/management-groups/create-management-group-portal
+
 **Implement and manage storage:**
 
 **Deploy and manage Azure compute resources:**
