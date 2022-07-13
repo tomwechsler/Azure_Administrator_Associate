@@ -22,7 +22,7 @@ Thomas Maurer's Study Guide:
 -------------------
 https://www.thomasmaurer.ch/2020/03/az-104-study-guide-azure-administrator/
 
-More helpful information directly from Microsoft, divided into the functional groups (Skills measured -coming soon)!
+More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
 
 **Manage Azure identities and governance:**
@@ -182,3 +182,23 @@ https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-p
 https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal
 
 **Monitor and back up Azure resources:**
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/monitor-azure-resource
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-tutorial
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/logs/log-query-overview
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-metric
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/powershell
+
+https://docs.microsoft.com/en-us/azure/backup/configure-reports
+
+https://docs.microsoft.com/en-us/azure/backup/quick-backup-vm-portal
+
+https://docs.microsoft.com/en-us/azure/backup/backup-create-rs-vault
+
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-manage-vms
+
+https://docs.microsoft.com/en-us/azure/site-recovery/vmware-physical-secondary-disaster-recovery
