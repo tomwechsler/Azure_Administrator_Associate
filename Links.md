@@ -135,4 +135,50 @@ https://docs.microsoft.com/en-us/azure/app-service/app-service-plan-manage
 
 **Configure and manage virtual networking:**
 
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal
+
+https://docs.microsoft.com/en-us/azure/virtual-network/ip-services/virtual-network-public-ip-address
+
+https://docs.microsoft.com/en-us/azure/dns/dns-getstarted-portal
+
+https://docs.microsoft.com/en-us/azure/dns/dns-custom-domain
+
+https://docs.microsoft.com/en-us/azure/dns/private-dns-getstarted-portal
+
+https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface
+
+https://docs.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal
+
+https://docs.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal
+
+https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview
+
+https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-portal
+
+https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-powershell
+
+https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal
+
+https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-troubleshoot
+
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-diagnose-on-premises-connectivity
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-performance-monitor-performance-monitor
+
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview
+
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-troubleshoot-manage-cli
+
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-connectivity-portal
+
+https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal
+
+https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal
+
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager
+
+https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal
+
 **Monitor and back up Azure resources:**
