@@ -103,6 +103,36 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/availability
 
 https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview
 
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template?tabs=azure-powershell
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/create-vm-specialized-portal
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/quickstart-create-templates-use-the-portal
+
+https://docs.microsoft.com/en-us/previous-versions/azure/virtual-machines/windows/download-template
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/custom-script-windows
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-overview
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/resize-vm?tabs=portal
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/attach-managed-disk-portal
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/nsg-quickstart-portal
+
+https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/redeploy-to-new-node-windows
+
+https://docs.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-portal?tabs=azure-cli
+
+https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-portal
+
+https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-vs
+
+https://docs.microsoft.com/en-us/azure/app-service/app-service-plan-manage
+
 **Configure and manage virtual networking:**
 
 **Monitor and back up Azure resources:**
