@@ -99,6 +99,10 @@ https://docs.microsoft.com/en-us/azure/storage/blobs/object-replication-configur
 
 **Deploy and manage Azure compute resources:**
 
+https://docs.microsoft.com/en-us/azure/virtual-machines/availability
+
+https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview
+
 **Configure and manage virtual networking:**
 
 **Monitor and back up Azure resources:**
