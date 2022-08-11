@@ -1,0 +1,13 @@
+az ad user list
+az ad user list --query [].displayName
+
+az ad user show --id "jane.dodge@cloudgrid.site"
+
+az ad user create --display-name "Janice Carter"  --password "Pa$$w0rdABC123" --user-principal-name janice.carter@cloudgrid.site 
+
+az ad user list –query [].displayName
+
+az ad user update --id janice.carter@cloudgrid.site --account-enabled false
+
+az ad user show --id janice.carter@cloudgrid.site
+(Account Enabled is the first shown property)
