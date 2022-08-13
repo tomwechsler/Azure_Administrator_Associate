@@ -1,0 +1,11 @@
+az ad group create --display-name ProjectA_Members --mail-nickname projecta_members
+
+az ad group member add --group ProjectA_Members --member-id f4657da8-f2f6-4d3c-9686-a1e0f46cf229
+
+az ad group list --query [].displayName
+
+az ad group member list --group ProjectA_Members --query [].displayName
+
+az ad group delete --group ProjectA_Members
+
+az ad group list --query [].displayName
