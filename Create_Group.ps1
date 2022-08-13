@@ -2,7 +2,7 @@ Get-Command *az*user*
 
 Get-Help New-AzADUser -detail
 
-$SecureStringPassword = ConvertTo-SecureString -String ‘Pa$$w0rdABC123’ -AsPlainText -Force
+$SecureStringPassword = ConvertTo-SecureString -String â€˜Pa$$w0rdABC123â€™ -AsPlainText -Force
 
 New-AzADUser -DisplayName "Max Bishop" -UserPrincipalName "max.bishop@cloudgrid.site"  -Password $SecureStringPassword -MailNickname "MBishop"
 
