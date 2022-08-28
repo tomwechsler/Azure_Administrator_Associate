@@ -202,3 +202,8 @@ https://docs.microsoft.com/en-us/azure/backup/backup-create-rs-vault
 https://docs.microsoft.com/en-us/azure/backup/backup-azure-manage-vms
 
 https://docs.microsoft.com/en-us/azure/site-recovery/vmware-physical-secondary-disaster-recovery
+
+More helpful links:
+-----------
+
+https://portal.azure.com/App/Download
