@@ -1,0 +1,132 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "location": {
+            "type": "string"
+        },
+        "extendedLocation": {
+            "type": "object"
+        },
+        "virtualNetworkName": {
+            "type": "string"
+        },
+        "resourceGroup": {
+            "type": "string"
+        },
+        "addressSpaces": {
+            "type": "array"
+        },
+        "ipv6Enabled": {
+            "type": "bool"
+        },
+        "subnetCount": {
+            "type": "int"
+        },
+        "subnet0_name": {
+            "type": "string"
+        },
+        "subnet0_addressRange": {
+            "type": "string"
+        },
+        "subnet1_name": {
+            "type": "string"
+        },
+        "subnet1_addressRange": {
+            "type": "string"
+        },
+        "subnet2_name": {
+            "type": "string"
+        },
+        "subnet2_addressRange": {
+            "type": "string"
+        },
+        "subnet3_name": {
+            "type": "string"
+        },
+        "subnet3_addressRange": {
+            "type": "string"
+        },
+        "subnet4_name": {
+            "type": "string"
+        },
+        "subnet4_addressRange": {
+            "type": "string"
+        },
+        "subnet5_name": {
+            "type": "string"
+        },
+        "subnet5_addressRange": {
+            "type": "string"
+        },
+        "ddosProtectionPlanEnabled": {
+            "type": "bool"
+        },
+        "firewallEnabled": {
+            "type": "bool"
+        },
+        "bastionEnabled": {
+            "type": "bool"
+        }
+    },
+    "variables": {},
+    "resources": [
+        {
+            "name": "[parameters('virtualNetworkName')]",
+            "type": "Microsoft.Network/VirtualNetworks",
+            "apiVersion": "2021-01-01",
+            "location": "[parameters('location')]",
+            "extendedLocation": "[if(empty(parameters('extendedLocation')), json('null'), parameters('extendedLocation'))]",
+            "dependsOn": [],
+            "tags": {
+                "Projekt": "OBS"
+            },
+            "properties": {
+                "addressSpace": {
+                    "addressPrefixes": [
+                        "10.10.0.0/16"
+                    ]
+                },
+                "subnets": [
+                    {
+                        "name": "GatewaySubnet",
+                        "properties": {
+                            "addressPrefix": "10.10.0.0/24"
+                        }
+                    },
+                    {
+                        "name": "AzureBastionSubnet",
+                        "properties": {
+                            "addressPrefix": "10.10.1.0/24"
+                        }
+                    },
+                    {
+                        "name": "AzureFirewallSubnet",
+                        "properties": {
+                            "addressPrefix": "10.10.2.0/24"
+                        }
+                    },
+                    {
+                        "name": "RouteServerSubnet",
+                        "properties": {
+                            "addressPrefix": "10.10.3.0/24"
+                        }
+                    },
+                    {
+                        "name": "ApplicationGatewaySubnet",
+                        "properties": {
+                            "addressPrefix": "10.10.4.0/24"
+                        }
+                    },
+                    {
+                        "name": "Production",
+                        "properties": {
+                            "addressPrefix": "10.10.5.0/24"
+                        }
+                    }
+                ],
+                "enableDdosProtection": "[parameters('ddosProtectionPlanEnabled')]"
+            }
+        }
+    ]
+}

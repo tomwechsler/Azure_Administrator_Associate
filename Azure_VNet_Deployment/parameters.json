@@ -1,0 +1,74 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "location": {
+            "value": "westeurope"
+        },
+        "extendedLocation": {
+            "value": {}
+        },
+        "virtualNetworkName": {
+            "value": "tw-prod-vnet"
+        },
+        "resourceGroup": {
+            "value": "tw-obs-rg"
+        },
+        "addressSpaces": {
+            "value": [
+                "10.10.0.0/16"
+            ]
+        },
+        "ipv6Enabled": {
+            "value": false
+        },
+        "subnetCount": {
+            "value": 6
+        },
+        "subnet0_name": {
+            "value": "GatewaySubnet"
+        },
+        "subnet0_addressRange": {
+            "value": "10.10.0.0/24"
+        },
+        "subnet1_name": {
+            "value": "AzureBastionSubnet"
+        },
+        "subnet1_addressRange": {
+            "value": "10.10.1.0/24"
+        },
+        "subnet2_name": {
+            "value": "AzureFirewallSubnet"
+        },
+        "subnet2_addressRange": {
+            "value": "10.10.2.0/24"
+        },
+        "subnet3_name": {
+            "value": "RouteServerSubnet"
+        },
+        "subnet3_addressRange": {
+            "value": "10.10.3.0/24"
+        },
+        "subnet4_name": {
+            "value": "ApplicationGatewaySubnet"
+        },
+        "subnet4_addressRange": {
+            "value": "10.10.4.0/24"
+        },
+        "subnet5_name": {
+            "value": "Production"
+        },
+        "subnet5_addressRange": {
+            "value": "10.10.5.0/24"
+        },
+        "ddosProtectionPlanEnabled": {
+            "value": false
+        },
+        "firewallEnabled": {
+            "value": false
+        },
+        "bastionEnabled": {
+            "value": false
+        }
+    }
+}
