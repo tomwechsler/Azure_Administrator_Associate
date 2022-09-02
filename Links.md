@@ -236,6 +236,8 @@ https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security
 
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/control-plane-and-data-plane
 
+https://docs.microsoft.com/de-de/azure/storage/common/storage-account-create?tabs=azure-cli
+
 https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction
 
 https://docs.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview
@@ -287,3 +289,5 @@ https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
 https://docs.microsoft.com/en-us/azure/virtual-machines/availability-set-overview
 
 https://azure.microsoft.com/en-us/support/legal/sla/
+=======
+>>>>>>> 1d69c353f513e23bff49b50e12852d8fe5e4280d
