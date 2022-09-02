@@ -289,5 +289,3 @@ https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
 https://docs.microsoft.com/en-us/azure/virtual-machines/availability-set-overview
 
 https://azure.microsoft.com/en-us/support/legal/sla/
-=======
->>>>>>> 1d69c353f513e23bff49b50e12852d8fe5e4280d
