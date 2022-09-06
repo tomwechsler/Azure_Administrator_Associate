@@ -289,3 +289,22 @@ https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
 https://docs.microsoft.com/en-us/azure/virtual-machines/availability-set-overview
 
 https://azure.microsoft.com/en-us/support/legal/sla/
+
+https://docs.microsoft.com/en-us/fslogix/install-ht
+
+https://github.com/Azure-Samples/azure-files-samples/releases
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/user-documentation/connect-web
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/user-documentation/connect-windows-7-10
+
+https://docs.microsoft.com/en-us/azure/azure-monitor/overview
+
+https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview
+
+https://docs.microsoft.com/en-us/azure/advisor/advisor-overview
+
+https://docs.microsoft.com/en-us/azure/backup/backup-overview
+
+YouTube Channel (Tom Wechsler)
+https://www.youtube.com/channel/UCTNeHOi-dFeMLPkrYA9VbHw
