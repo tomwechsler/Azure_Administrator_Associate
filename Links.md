@@ -308,3 +308,27 @@ https://docs.microsoft.com/en-us/azure/backup/backup-overview
 
 YouTube Channel (Tom Wechsler)
 https://www.youtube.com/channel/UCTNeHOi-dFeMLPkrYA9VbHw
+
+https://docs.microsoft.com/en-us/azure/backup/backup-support-matrix-mars-agent
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-portal
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/quickstart-create-templates-use-the-portal
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/create-vm-specialized-portal
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/create-vm-generalized-managed
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/capture-image-resource
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/custom-script-windows
+
+https://docs.microsoft.com/en-us/previous-versions/azure/virtual-machines/windows/download-template
+
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-delete-vault?tabs=portal
