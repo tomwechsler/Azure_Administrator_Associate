@@ -268,6 +268,12 @@ https://docs.microsoft.com/en-us/azure/bastion/bastion-overview
 
 https://docs.microsoft.com/en-us/azure/bastion/quickstart-host-portal
 
+https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
+
+https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal
+
+https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-template
+
 https://docs.microsoft.com/en-us/azure/virtual-machines/
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/overview
