@@ -274,6 +274,14 @@ https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-st
 
 https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-template
 
+https://docs.microsoft.com/en-us/azure/application-gateway/
+
+https://docs.microsoft.com/en-us/azure/application-gateway/overview
+
+https://docs.microsoft.com/en-us/azure/application-gateway/features
+
+https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-template
+
 https://docs.microsoft.com/en-us/azure/virtual-machines/
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/overview
