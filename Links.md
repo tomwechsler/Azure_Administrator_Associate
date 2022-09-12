@@ -298,6 +298,8 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/shared-image-galleries
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/availability
 
+https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/serial-console-overview
+
 https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/availability-set-overview
