@@ -1,0 +1,19 @@
+az account show
+
+az account list --all --output table
+
+az account set --subscription "Microsoft Azure Sponsorship"
+
+az vm list -g tw-az800-rg --query [].'[name,hardwareProfile.vmSize]' 
+
+az vm list -g tw-az800-rg --query [].'[name,hardwareProfile.vmSize]' -o tsv
+
+az vm list-vm-resize-options -g tw-az800-rg -n azprod01
+
+az vm resize -g tw-az800-rg -n azprod01 --size Standard_DS3_v2
+
+az vm list-vm-resize-options --ids $(az vm list -g tw-az800-rg --query "[].id" -o tsv)
+
+az vm resize --size Standard_DS3_v2 --ids $(az vm list -g tw-az800-rg --query "[].id" -o tsv)
+
+az vm list -g tw-az800-rg --query [].'[name,hardwareProfile.vmSize]' -o tsv
