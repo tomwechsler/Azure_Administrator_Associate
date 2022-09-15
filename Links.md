@@ -282,6 +282,14 @@ https://docs.microsoft.com/en-us/azure/application-gateway/features
 
 https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-template
 
+https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region
+
+https://azurespeedtest.azurewebsites.net/
+
+https://azure.microsoft.com/en-us/pricing/vm-selector/
+
+https://azure.microsoft.com/en-us/support/legal/sla/
+
 https://docs.microsoft.com/en-us/azure/virtual-machines/
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/overview
