@@ -206,6 +206,8 @@ https://docs.microsoft.com/en-us/azure/site-recovery/vmware-physical-secondary-d
 More helpful links:
 -----------
 
+https://docs.microsoft.com/en-us/azure/architecture/
+
 https://portal.azure.com/App/Download
 
 https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
