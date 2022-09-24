@@ -300,6 +300,10 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/availability
 
 https://docs.microsoft.com/en-us/troubleshoot/azure/virtual-machines/serial-console-overview
 
+https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/serial-console-linux
+
+https://learn.microsoft.com/en-us/troubleshoot/azure/virtual-machines/serial-console-grub-single-user-mode
+
 https://docs.microsoft.com/en-us/azure/availability-zones/az-overview
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/availability-set-overview
