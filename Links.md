@@ -206,6 +206,8 @@ https://docs.microsoft.com/en-us/azure/site-recovery/vmware-physical-secondary-d
 More helpful links:
 -----------
 
+https://docs.microsoft.com/en-us/azure/architecture/
+
 https://portal.azure.com/App/Download
 
 https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
@@ -282,6 +284,14 @@ https://docs.microsoft.com/en-us/azure/application-gateway/features
 
 https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-template
 
+https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region
+
+https://azurespeedtest.azurewebsites.net/
+
+https://azure.microsoft.com/en-us/pricing/vm-selector/
+
+https://azure.microsoft.com/en-us/support/legal/sla/
+
 https://docs.microsoft.com/en-us/azure/virtual-machines/
 
 https://docs.microsoft.com/en-us/azure/virtual-machines/overview
@@ -326,7 +336,7 @@ https://docs.microsoft.com/en-us/azure/advisor/advisor-overview
 
 https://docs.microsoft.com/en-us/azure/backup/backup-overview
 
-YouTube Channel (Tom Wechsler)
+YouTube Channel (Tom Wechsler)  
 https://www.youtube.com/channel/UCTNeHOi-dFeMLPkrYA9VbHw
 
 https://docs.microsoft.com/en-us/azure/backup/backup-support-matrix-mars-agent
