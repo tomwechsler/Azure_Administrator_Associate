@@ -336,6 +336,12 @@ https://docs.microsoft.com/en-us/azure/advisor/advisor-overview
 
 https://docs.microsoft.com/en-us/azure/backup/backup-overview
 
+https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-portal
+
+https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-powershell
+
+https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-template
+
 YouTube Channel (Tom Wechsler)  
 https://www.youtube.com/channel/UCTNeHOi-dFeMLPkrYA9VbHw
 
