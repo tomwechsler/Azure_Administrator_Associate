@@ -270,7 +270,13 @@ https://docs.microsoft.com/en-us/azure/bastion/bastion-overview
 
 https://docs.microsoft.com/en-us/azure/bastion/quickstart-host-portal
 
+https://learn.microsoft.com/en-us/azure/bastion/quickstart-host-arm-template
+
+https://learn.microsoft.com/en-us/azure/bastion/tutorial-create-host-portal
+
 https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
+
+https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview
 
 https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal
 
