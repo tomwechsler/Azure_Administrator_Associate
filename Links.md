@@ -212,6 +212,16 @@ https://portal.azure.com/App/Download
 
 https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
 
+https://learn.microsoft.com/bs-latn-ba/azure/active-directory/fundamentals/active-directory-access-create-new-tenant
+
+https://learn.microsoft.com/bs-latn-ba/azure/active-directory/fundamentals/add-custom-domain
+
+https://learn.microsoft.com/bs-latn-ba/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory
+
+https://learn.microsoft.com/bs-latn-ba/azure/active-directory/fundamentals/active-directory-properties-area
+
+https://learn.microsoft.com/bs-latn-ba/azure/active-directory/fundamentals/customize-branding
+
 https://docs.microsoft.com/en-us/azure/active-directory/devices/concept-azure-ad-register
 
 https://docs.microsoft.com/en-us/azure/active-directory/devices/concept-azure-ad-join
