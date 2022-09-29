@@ -234,6 +234,10 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignment
 
 https://docs.microsoft.com/en-us/azure/governance/management-groups/overview
 
+https://learn.microsoft.com/en-us/azure/governance/management-groups/create-management-group-azure-cli
+
+https://learn.microsoft.com/en-us/azure/governance/management-groups/create-management-group-powershell
+
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
 
 https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction
