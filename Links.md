@@ -228,6 +228,10 @@ https://docs.microsoft.com/en-us/azure/active-directory/devices/concept-azure-ad
 
 https://docs.microsoft.com/en-us/azure/active-directory/devices/concept-azure-ad-join-hybrid
 
+https://learn.microsoft.com/en-us/entra/
+
+https://learn.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/
+
 https://techcommunity.microsoft.com/t5/itops-talk-blog/what-s-the-difference-between-azure-roles-and-azure-ad-roles/ba-p/2363647
 
 https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal
