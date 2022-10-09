@@ -264,6 +264,12 @@ https://docs.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview
 
 https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction
 
+https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-introduction
+
+https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-deployment-guide
+
+https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-planning
+
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
 
 https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-portal
